@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMaterial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Material>
+    <Id>1</Id>
+    <Author>Іван Іванов</Author>
+    <Title>Вступ до інформатики</Title>
+    <FaculcyName>123</FaculcyName>
+    <Department>Комп'ютерні науки</Department>
+    <MaterialType>Книга</MaterialType>
+    <Volume>300 сторінок</Volume>
+    <CreationDate>2023-11-22T12:00:00</CreationDate>
+  </Material>
+  <Material>
+    <Id>6</Id>
+    <Author>Іван Іванов</Author>
+    <Title>С++ посібник</Title>
+    <FaculcyName>123</FaculcyName>
+    <Department>Комп'ютерні науки</Department>
+    <MaterialType>Курс лекцій</MaterialType>
+    <Volume>100 сторінок</Volume>
+    <CreationDate>2023-11-25T13:10:00</CreationDate>
+  </Material>
+</ArrayOfMaterial>
